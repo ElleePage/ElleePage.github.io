@@ -11,6 +11,21 @@ div {
 div, img{
     width: 100;
 }
+flex-container{
+    display: flex;
+    flex-flow: row wrap;
+    justify-content: space-around;
+    list-style: none;
+}
+flex-item{
+    background-color: blueviolet;
+    padding: 5px;
+    width: 305px;
+    height: 400px;
+    margin-top: 10px;
+    line-height: 25px;
+    text-align: center;
+}
 .img{
     display: align;
     margin-left: auto;
