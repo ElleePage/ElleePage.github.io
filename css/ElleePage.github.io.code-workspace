@@ -1,0 +1,21 @@
+{
+	"folders": [
+		{
+			"name": "ElleePage.github.io",
+			"path": "../../../git/ElleePage.github.io"
+		},
+		{
+			"name": "img",
+			"path": "../img"
+		},
+		{
+			"name": "js",
+			"path": "../js"
+		},
+		{
+			"name": "css",
+			"path": "."
+		}
+	],
+	"settings": {}
+}
